@@ -7,7 +7,7 @@
     In this project we’re going to make a Humidity and temperature monitoring using Arduino UNO and DHT22 sensor.
 </h3>
 <p>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Edu-Fidelis/BootstrapInit">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Edu-Fidelis/HumAndTempMonitor">
 <h4 align="center"> 
 	 Status: Complete
 </h4>
@@ -106,4 +106,4 @@ Made with :fa-heart: by Edu Fidelis
 
 ##  Versions of README
 
-[Portuguese](./README.md)  |  [English](./README-en.md) 
+[English](./README.md)
